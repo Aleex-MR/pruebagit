@@ -1,1 +1,1 @@
-Hola mundo 
+Hola mundo, se le esta agregando contenido a este archivo de manera local, para ver los cambios actualizados en el repositorio remoto de GitHub. 
